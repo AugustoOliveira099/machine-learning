@@ -14,8 +14,7 @@ This dataset consists of fractured and non-fractured X-ray images covering all a
 
 Number of available images: 10,580 images  
 
-Dataset split:  
-
+Dataset split:
 - Training data: 9,246 images  
 - Validation data: 828 images  
 - Test data: 506 images
