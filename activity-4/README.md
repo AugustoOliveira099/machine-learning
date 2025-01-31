@@ -18,7 +18,10 @@ Dataset split:
 
 - Training data: 9,246 images  
 - Validation data: 828 images  
-- Test data: 506 images  
+- Test data: 506 images
+
+## Video Link
+This is a [video](https://drive.google.com/file/d/1BhfG8vjKBOiwbwzqyuKG4KAjQgpD7Vkx/view?usp=sharing) explaining in detail what was done.
 
 ## References
 - GODOY, Daniel Voigt. Deep Learning with PyTorch Step-by-Step: A Beginner's Guide. [S.l.: s.n.], 2022.
